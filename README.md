@@ -251,11 +251,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Developer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [your-github-username]
-- **LinkedIn**: [your-linkedin-profile]
+- **Developer**: [Vivian Sifa]
+- **Email**: [sifavivz@gmail.com]
+- **GitHub**: [https://github.com/Sifa001]
+- **LinkedIn**: [linkedin.com/in/vivian-sifa]
 
 ---
 
-*Built with ❤️ for the Avibe Coding Hackathon*
+*Built with ❤️ for the PLP vibe Coding Hackathon*
