@@ -254,7 +254,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Developer**: [Vivian Sifa]
 - **Email**: [sifavivz@gmail.com]
 - **GitHub**: [https://github.com/Sifa001]
-- **LinkedIn**: [linkedin.com/in/vivian-sifa]
+- **LinkedIn**: [https://www.linkedin.com/in/vivian-sifa]
 
 ---
 
